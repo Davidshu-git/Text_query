@@ -7,6 +7,7 @@
 #include <memory>
 #include <map>
 #include <set>
+#include <algorithm>
 #include "QueryResult.h"
 using std::ifstream;
 using std::istringstream;
