@@ -33,3 +33,6 @@
 
 # cmake file
 /build
+
+# idea file
+/.idea
